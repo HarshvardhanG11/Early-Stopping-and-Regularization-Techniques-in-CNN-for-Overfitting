@@ -8,7 +8,9 @@
 <img src="https://img.icons8.com/color/48/000000/computer.png" width="40"/>
 
 # 📌 Early Stopping and Regularization Techniques in CNN for Overfitting
-
+<p align="center">
+>   <img src="assets/early_stopping.png" alt="Early Stopping and Regularization in CNN" width="400"/>
+> </p>
 🚀 This project demonstrates how **Convolutional Neural Networks (CNNs)** can be improved using **Early Stopping** and **Regularization techniques** to overcome **overfitting** while training on the **MNIST dataset**.
 
 ---
