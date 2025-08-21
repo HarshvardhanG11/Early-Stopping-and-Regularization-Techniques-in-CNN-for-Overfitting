@@ -11,7 +11,7 @@
 <p align="center">
 >   <img src="assets/early_stopping.png" alt="Early Stopping and Regularization in CNN" width="400"/>
 > </p>
-🚀 This project demonstrates how **Convolutional Neural Networks (CNNs)** can be improved using **Early Stopping** and **Regularization techniques** to overcome **overfitting** while training on the **MNIST dataset**.
+🚀 This project demonstrates how Convolutional Neural Networks (CNNs) can be improved using Early Stopping and Regularization techniques to overcome overfitting while training on the MNIST dataset.
 
 ---
 
