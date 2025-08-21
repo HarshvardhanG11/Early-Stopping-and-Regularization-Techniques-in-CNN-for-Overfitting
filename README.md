@@ -4,6 +4,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-DataViz-yellow?logo=plotly)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/computer.png" width="40"/>
 
 # 📌 Early Stopping and Regularization Techniques in CNN for Overfitting
 
