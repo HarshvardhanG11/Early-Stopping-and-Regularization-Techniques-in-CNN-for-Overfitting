@@ -112,7 +112,7 @@ plot training loss vs validation loss
 
 ## 🤝 Contributors
 
-👨‍💻 Made by **Your Team** with ❤️
+👨‍💻 Made by **Contrubution of team members** with ❤️
 
 ---
 
