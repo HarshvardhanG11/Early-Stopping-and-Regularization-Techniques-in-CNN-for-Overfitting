@@ -7,13 +7,13 @@
 <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/computer.png" width="40"/>
 
-# 📌 Early Stopping and Regularization Techniques in CNN for Overfitting
+#  Early Stopping and Regularization Techniques in CNN for Overfitting
 
-🚀 This project demonstrates how Convolutional Neural Networks (CNNs) can be improved using Early Stopping and Regularization techniques to overcome overfitting while training on the MNIST dataset.
+ This project demonstrates how Convolutional Neural Networks (CNNs) can be improved using Early Stopping and Regularization techniques to overcome overfitting while training on the MNIST dataset.
 
 ---
 
-## 🌟 Features
+##  Features
 
 * ✅ Handwritten Digit Recognition using **MNIST Dataset (0–9 digits)**
 * ✅ **L2 Regularization** to control large weights
@@ -24,13 +24,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages Used
+###  Languages Used
 
-* 🐍 **Python 3**
+*  **Python 3**
 
-### 📚 Libraries & Tools
+###  Libraries & Tools
 
 * 🔹 **TensorFlow / Keras** → Deep Learning Framework
 * 🔹 **Matplotlib** → Plotting Loss & Accuracy curves
@@ -38,7 +38,7 @@
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Load Dataset** → MNIST handwritten digits.
 2. **Preprocess Data** → Normalize images to range `[0,1]`.
@@ -59,15 +59,15 @@
 
 ---
 
-## 📊 Results
+##  Results
 
-* 📈 **Training Accuracy**: > 99%
-* 📉 **Validation Accuracy**: \~ 98%
-* ✅ **Overfitting minimized** using Dropout, L2, and Early Stopping
+*  **Training Accuracy**: > 99%
+*  **Validation Accuracy**: \~ 98%
+*  **Overfitting minimized** using Dropout, L2, and Early Stopping
 
 ---
 
-## 🧩 Pseudo Code
+##  Pseudo Code
 
 ```python
 # Pseudo-code for CNN with Early Stopping & Regularization
@@ -104,15 +104,15 @@ plot training loss vs validation loss
 
 ---
 
-## 📷 Demo (Architecture Flow)
+##  Demo (Architecture Flow)
 
-👉 CNN Layers → Batch Normalization → Dropout → Early Stopping → Dense Softmax
+ CNN Layers → Batch Normalization → Dropout → Early Stopping → Dense Softmax
 
 ---
 
-## 🤝 Contributors
+##  Contributors
 
-👨‍💻 Made by **Contrubution of team members** with ❤️
+ Made by **Contrubution of team members** with Passion and inspiration
 
 ---
 
