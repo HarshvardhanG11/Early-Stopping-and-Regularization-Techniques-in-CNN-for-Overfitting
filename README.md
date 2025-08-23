@@ -15,12 +15,12 @@
 
 ##  Features
 
-* ✅ Handwritten Digit Recognition using **MNIST Dataset (0–9 digits)**
-* ✅ **L2 Regularization** to control large weights
-* ✅ **Dropout Layers** to reduce dependency on neurons
-* ✅ **Batch Normalization** to stabilize training
-* ✅ **Early Stopping** to stop training at the right time
-* ✅ Achieves **high accuracy (\~98%)** with reduced overfitting
+*  Handwritten Digit Recognition using **MNIST Dataset (0–9 digits)**
+*  **L2 Regularization** to control large weights
+*  **Dropout Layers** to reduce dependency on neurons
+*  **Batch Normalization** to stabilize training
+*  **Early Stopping** to stop training at the right time
+*  Achieves **high accuracy (\~98%)** with reduced overfitting
 
 ---
 
@@ -32,9 +32,9 @@
 
 ###  Libraries & Tools
 
-* 🔹 **TensorFlow / Keras** → Deep Learning Framework
-* 🔹 **Matplotlib** → Plotting Loss & Accuracy curves
-* 🔹 **NumPy** → Numerical Operations
+*  **TensorFlow / Keras** → Deep Learning Framework
+*  **Matplotlib** → Plotting Loss & Accuracy curves
+*  **NumPy** → Numerical Operations
 
 ---
 
